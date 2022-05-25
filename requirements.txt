@@ -1,0 +1,12 @@
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+cloudgenix==5.6.1b2
+cloudgenix-idname==2.0.2
+idna==3.3
+ipcalc==1.99.0
+pyaml==21.10.1
+PyYAML==6.0
+requests==2.27.1
+six==1.16.0
+urllib3==1.26.9
+websockets==10.3
